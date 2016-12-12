@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "z_opensap_kapsel",
+        "description": "OpenSAP Kapsel Application",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#z_opensap_kapsel-Display",
+        "navigationComponentName": "com.opensap.kapsel",
+        "intentSemanticObject": "z_opensap_kapsel",
+        "intentAction": "Display",
+        "html5ApplicationName": "zopensapkapsel",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "c4030188-cf61-4133-a85a-14eb631e365f-1480071670193"
+        ],
+        "contentPackages": [
+            "5f48efde-7d74-4aee-8aec-9cbd70651f65-1480071739453"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "OpenSAP Kapsel Application",
+        "subtitle": "OpenSAP",
+        "searchKeywords": "OpenSAP Kapsel Application,OpenSAP",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
