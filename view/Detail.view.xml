@@ -13,6 +13,7 @@
 							<core:Fragment fragmentName="com.opensap.kapsel.view.DetailInfoForm" type="XML"/>
 						</content>
 					</IconTabFilter>
+					<core:ExtensionPoint name="extensionAddIconTabBars" />
 				</items>
 			</IconTabBar>
 		</content>
